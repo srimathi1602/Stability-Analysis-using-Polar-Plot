@@ -9,6 +9,7 @@ Stability analysis using a polar plot in MATLAB examines how the system’s freq
 
 ![WhatsApp Image 2025-11-27 at 21 40 28_a8f93bbb](https://github.com/user-attachments/assets/5a48aae3-d1c7-4188-8e2a-b3393aede89c)
 ![WhatsApp Image 2025-11-27 at 21 41 05_5ce43cab](https://github.com/user-attachments/assets/1e4ab139-b778-49b2-981c-04a6283de91c)
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/9e71bbd6-b039-4d8f-9eae-96359e90ce51" />
 
 
 ## Procedure:
