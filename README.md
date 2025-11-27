@@ -7,6 +7,9 @@ Computer with MATLAB software
 ## Theory:
 Stability analysis using a polar plot in MATLAB examines how the system’s frequency response encircles the critical point ((-1,0)) based on the Nyquist stability criterion. If the polar plot does not encircle the ((-1,0)) point for an open-loop stable system, the closed-loop system is considered stable.
 
+![WhatsApp Image 2025-11-27 at 21 40 28_a8f93bbb](https://github.com/user-attachments/assets/5a48aae3-d1c7-4188-8e2a-b3393aede89c)
+![WhatsApp Image 2025-11-27 at 21 41 05_5ce43cab](https://github.com/user-attachments/assets/1e4ab139-b778-49b2-981c-04a6283de91c)
+
 
 ## Procedure:
 	Open MATLAB software
